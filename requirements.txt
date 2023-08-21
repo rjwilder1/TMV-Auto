@@ -1,0 +1,7 @@
+pywinauto
+bs4
+configparser
+ctypes
+requests
+time
+datetime
